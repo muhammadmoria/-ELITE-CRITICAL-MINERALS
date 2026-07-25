@@ -102,7 +102,7 @@ The repository includes multiple datasets:
 Clone the repository
 
 ```bash
-git clone https://github.com/USERNAME/ELITE-CRITICAL-MINERALS.git
+git clone https://github.com/muhammadmoria/ELITE-CRITICAL-MINERALS.git
 ```
 
 Go into project
